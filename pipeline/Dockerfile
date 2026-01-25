@@ -13,6 +13,6 @@ RUN uv sync --locked
 #RUN pip install pandas pyarrow
 
 #Copy from the host machine to the docker image
-COPY pipeline.py .
+COPY ingest_data.py .
 
-ENTRYPOINT ["python", "pipeline.py"]
+ENTRYPOINT ["python", "ingest_data.py"]
