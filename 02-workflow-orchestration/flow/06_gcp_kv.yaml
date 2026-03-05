@@ -18,10 +18,18 @@ tasks:
     type: io.kestra.plugin.core.kv.Set
     key: GCP_BUCKET_NAME
     kvType: STRING
+<<<<<<< HEAD
     value: kestra-de-zoomcamp-wfo # TODO make sure it's globally unique!
+=======
+    value: your-name-kestra # TODO make sure it's globally unique!
+>>>>>>> 0ec698acb506771367ab85b7757252744fc0d8e8
 
   - id: gcp_dataset
     type: io.kestra.plugin.core.kv.Set
     key: GCP_DATASET
     kvType: STRING
     value: zoomcamp
+<<<<<<< HEAD
+=======
+
+>>>>>>> 0ec698acb506771367ab85b7757252744fc0d8e8

@@ -52,4 +52,8 @@ tasks:
       FROM read_json_auto('{{workingDir}}/products.json')
       GROUP BY brand
       ORDER BY avg_price DESC;
+<<<<<<< HEAD
     fetchType: STORE
+=======
+    fetchType: STORE
+>>>>>>> 0ec698acb506771367ab85b7757252744fc0d8e8

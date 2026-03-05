@@ -272,4 +272,8 @@ triggers:
     type: io.kestra.plugin.core.trigger.Schedule
     cron: "0 10 1 * *"
     inputs:
+<<<<<<< HEAD
       taxi: yellow
+=======
+      taxi: yellow
+>>>>>>> 0ec698acb506771367ab85b7757252744fc0d8e8

@@ -267,4 +267,8 @@ pluginDefaults:
     values:
       url: jdbc:postgresql://pgdatabase:5432/ny_taxi
       username: root
+<<<<<<< HEAD
       password: root
+=======
+      password: root
+>>>>>>> 0ec698acb506771367ab85b7757252744fc0d8e8

@@ -20,3 +20,7 @@ pluginDefaults:
       projectId: "{{kv('GCP_PROJECT_ID')}}"
       location: "{{kv('GCP_LOCATION')}}"
       bucket: "{{kv('GCP_BUCKET_NAME')}}"
+<<<<<<< HEAD
+=======
+
+>>>>>>> 0ec698acb506771367ab85b7757252744fc0d8e8
